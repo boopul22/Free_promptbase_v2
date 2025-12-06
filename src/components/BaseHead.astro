@@ -32,6 +32,14 @@ const imageURL = new URL(imageSrc, Astro.url);
 />
 <meta name="generator" content={Astro.generator} />
 
+<!-- Google Verification & Monetization -->
+<meta
+	name="google-site-verification"
+	content="Kwixb4_W335SRst1i80tZp-VzgBmBizhUO1WXYV5RH4"
+/>
+<meta name="google-adsense-account" content="ca-pub-7803867089582138" />
+<meta name="monetag" content="ed656d752ebff69775306766db127896" />
+
 <!-- Theme initialization - runs before page renders to prevent flash -->
 <script is:inline>
 	(function () {
@@ -101,3 +109,39 @@ const imageURL = new URL(imageSrc, Astro.url);
 		},
 	})}
 />
+
+<!-- Google Analytics with Consent Mode -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CP5BGQCVHM"
+></script>
+<script is:inline>
+	window.dataLayer = window.dataLayer || [];
+	function gtag() {
+		dataLayer.push(arguments);
+	}
+	gtag("js", new Date());
+
+	// Initialize with consent mode
+	gtag("consent", "default", {
+		analytics_storage: "denied",
+		ad_storage: "denied",
+		ad_user_data: "denied",
+		ad_personalization: "denied",
+		wait_for_update: 500,
+	});
+
+	gtag("config", "G-CP5BGQCVHM", {
+		anonymize_ip: true,
+	});
+
+	// Apply saved preferences if they exist
+	const savedConsent = localStorage.getItem("cookie-consent");
+	if (savedConsent) {
+		const preferences = JSON.parse(savedConsent);
+		gtag("consent", "update", {
+			analytics_storage: preferences.analytics ? "granted" : "denied",
+			ad_storage: preferences.advertising ? "granted" : "denied",
+			ad_user_data: preferences.advertising ? "granted" : "denied",
+			ad_personalization: preferences.advertising ? "granted" : "denied",
+		});
+	}
+</script>
