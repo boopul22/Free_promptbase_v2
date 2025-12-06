@@ -12,6 +12,7 @@ interface Props {
     color: string;
     slug?: string;
     category?: string;
+    image?: string | { src: string };
 }
 
 const {
@@ -26,7 +27,10 @@ const {
     color,
     slug,
     category,
+    image,
 } = Astro.props;
+
+const imageSrc = typeof image === "string" ? image : image?.src;
 
 const colorClasses: Record<
     string,
@@ -116,17 +120,25 @@ const categoryInfo = category ? getCategoryBySlug(category) : null;
         </p>
 
         <div
-            class="relative bg-black/50 rounded-lg p-3 border border-border group-hover:border-neutral-700 transition-colors mb-4"
+            class={`relative rounded-lg overflow-hidden border border-border group-hover:border-neutral-700 transition-colors mb-4 ${imageSrc ? "" : "aspect-video"}`}
         >
-            <code
-                class="text-[10px] font-mono text-neutral-400 block line-clamp-3"
-            >
-                {prompt}
-            </code>
-            <div
-                class="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent pointer-events-none"
-            >
-            </div>
+            {
+                imageSrc ? (
+                    <img
+                        src={imageSrc}
+                        alt={title}
+                        class="w-full h-auto object-cover"
+                        loading="lazy"
+                    />
+                ) : (
+                    <div class="w-full h-full bg-black/50 p-3">
+                        <code class="text-[10px] font-mono text-neutral-400 block line-clamp-3">
+                            {prompt}
+                        </code>
+                        <div class="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent pointer-events-none"></div>
+                    </div>
+                )
+            }
         </div>
     </div>
 

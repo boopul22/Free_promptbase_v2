@@ -47,6 +47,7 @@ const prompts = posts.map((post) => ({
     color: "purple", // Default color
     slug: post.id,
     category: post.data.category,
+    image: post.data.heroImage,
 }));
 
 const categoryInfo = category ? getCategoryBySlug(category) : null;

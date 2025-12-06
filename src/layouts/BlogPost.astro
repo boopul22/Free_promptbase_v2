@@ -283,7 +283,7 @@ const schema = JSON.stringify({
 			}
 		});
 
-		// Copy to Clipboard
+		// Copy to Clipboard (for the main prompt in frontmatter)
 		const copyBtn = document.getElementById("copy-btn");
 		const promptCode = document.getElementById("prompt-code");
 		const copyIcon = document.getElementById("copy-icon");
@@ -297,16 +297,89 @@ const schema = JSON.stringify({
 					// Show copied state
 					if (copyIcon) copyIcon.classList.add("hidden");
 					if (checkIcon) checkIcon.classList.remove("hidden");
-					if (copyText) copyText.innerText = "Copied";
+					if (copyText) copyText.textContent = "Copied";
 
 					// Reset after 2 seconds
 					setTimeout(() => {
 						if (copyIcon) copyIcon.classList.remove("hidden");
 						if (checkIcon) checkIcon.classList.add("hidden");
-						if (copyText) copyText.innerText = "Copy";
+						if (copyText) copyText.textContent = "Copy";
 					}, 2000);
 				});
 			});
 		}
+
+		// Process <prompt> tags in content
+		const promptTags = document.querySelectorAll("prompt");
+		promptTags.forEach((promptTag) => {
+			const promptText = promptTag.textContent || "";
+			const promptWrapper = document.createElement("div");
+			promptWrapper.className =
+				"my-8 p-6 bg-surface/30 border border-border rounded-xl not-prose prompt-wrapper";
+
+			promptWrapper.innerHTML = `
+				<h3 class="text-base font-medium text-white mb-4 flex items-center gap-2">
+					<iconify-icon
+						icon="lucide:zap"
+						width="16"
+						class="text-yellow-400"
+					></iconify-icon>
+					The Prompt
+				</h3>
+				<div class="relative group">
+					<div class="absolute -inset-0.5 bg-gradient-to-r from-neutral-700 to-neutral-800 rounded-lg blur opacity-20 group-hover:opacity-40 transition duration-500"></div>
+					<div class="relative bg-[#0F0F0F] border border-neutral-800 rounded-lg p-5">
+						<code class="text-sm font-mono text-emerald-300 leading-relaxed whitespace-pre-wrap break-words block">${promptText}</code>
+						<button class="absolute top-3 right-3 text-xs flex items-center gap-1.5 text-neutral-500 hover:text-white transition-colors bg-surface/80 backdrop-blur border border-border px-2.5 py-1.5 rounded-md cursor-pointer copy-btn">
+							<iconify-icon icon="lucide:copy" width="12" class="copy-icon"></iconify-icon>
+							<iconify-icon icon="lucide:check" width="12" class="text-emerald-500 hidden check-icon"></iconify-icon>
+							<span class="copy-text">Copy</span>
+						</button>
+					</div>
+				</div>
+			`;
+
+			// Add copy functionality to the new button
+			const newCopyBtn = promptWrapper.querySelector(".copy-btn");
+			const newCopyIcon = promptWrapper.querySelector(".copy-icon");
+			const newCheckIcon = promptWrapper.querySelector(".check-icon");
+			const newCopyText = promptWrapper.querySelector(".copy-text");
+
+			if (newCopyBtn) {
+				newCopyBtn.addEventListener("click", () => {
+					navigator.clipboard.writeText(promptText).then(() => {
+						if (newCopyIcon) newCopyIcon.classList.add("hidden");
+						if (newCheckIcon)
+							newCheckIcon.classList.remove("hidden");
+						if (newCopyText) newCopyText.textContent = "Copied";
+
+						setTimeout(() => {
+							if (newCopyIcon)
+								newCopyIcon.classList.remove("hidden");
+							if (newCheckIcon)
+								newCheckIcon.classList.add("hidden");
+							if (newCopyText) newCopyText.textContent = "Copy";
+						}, 2000);
+					});
+				});
+			}
+
+			// Handle nesting: If <prompt> is inside a <p>, unwrap it to avoid hydration mismatches or layout issues
+			// because we are replacing it with a <div> (block element)
+			const parent = promptTag.parentElement;
+			if (parent && parent.tagName === "P") {
+				// Insert wrapper after the paragraph
+				parent.insertAdjacentElement("afterend", promptWrapper);
+				// Remove the prompt tag from the paragraph
+				promptTag.remove();
+				// If paragraph is empty, remove it
+				if (parent.innerHTML.trim() === "") {
+					parent.remove();
+				}
+			} else {
+				// Replace directly if not in a P tag
+				promptTag.replaceWith(promptWrapper);
+			}
+		});
 	</script>
 </BaseLayout>
