@@ -27,7 +27,6 @@ const blog = defineCollection({
 			prompt: z.string().optional(),
 			model: z.string().optional(),
 			author: z.string().optional(),
-			views: z.number().optional(),
 			tags: z.array(z.string()).optional(),
 			tips: z.array(z.string()).optional(),
 			username: z.string().optional(),

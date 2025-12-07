@@ -5,7 +5,7 @@ import FormattedDate from "../components/FormattedDate.astro";
 import CreatorCredit from "../components/CreatorCredit.astro";
 import BaseLayout from "./BaseLayout.astro";
 
-type Props = CollectionEntry<"blog">["data"];
+type Props = CollectionEntry<"blog">["data"] & { slug?: string };
 
 const {
 	title,
@@ -15,11 +15,11 @@ const {
 	heroImage,
 	model = "AI Model",
 	author = "Admin",
-	views = 0,
 	tags = [],
 	tips = [],
 	prompt,
 	username,
+	slug,
 } = Astro.props;
 
 // Helper to get color based on model (simplified mapping)
@@ -125,11 +125,7 @@ const schema = JSON.stringify({
 					<div class="flex items-center gap-1.5">
 						<iconify-icon icon="lucide:eye" width="14"
 						></iconify-icon>
-						{
-							views >= 1000
-								? `${(views / 1000).toFixed(1)}k`
-								: views
-						} reads
+						<span id="view-count">...</span> reads
 					</div>
 				</div>
 			</header>
@@ -397,5 +393,49 @@ const schema = JSON.stringify({
 				promptTag.replaceWith(promptWrapper);
 			}
 		});
+	</script>
+	<script>
+		import { supabase } from "../lib/supabase";
+
+		// Increment view count
+		const incrementView = async () => {
+			// Get slug from URL path - handle both /blog/slug and /blog/category/slug patterns
+			const pathParts = window.location.pathname
+				.split("/")
+				.filter(Boolean);
+			const currentSlug = pathParts[pathParts.length - 1];
+
+			if (!currentSlug || currentSlug === "blog") return;
+
+			try {
+				// Incrementing via RPC
+				await supabase.rpc("increment_page_view", {
+					page_slug: currentSlug,
+				});
+
+				// Fetch updated count
+				const { data, error } = await supabase
+					.from("post_views")
+					.select("count")
+					.eq("slug", currentSlug)
+					.single();
+
+				if (data && !error) {
+					const viewCountElement =
+						document.getElementById("view-count");
+					if (viewCountElement) {
+						const count = data.count;
+						viewCountElement.textContent =
+							count >= 1000
+								? `${(count / 1000).toFixed(1)}k`
+								: count.toString();
+					}
+				}
+			} catch (e) {
+				console.error("Failed to update view count:", e);
+			}
+		};
+
+		incrementView();
 	</script>
 </BaseLayout>

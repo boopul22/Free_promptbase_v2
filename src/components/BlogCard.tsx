@@ -5,6 +5,7 @@ import type { BlogPost } from '../types';
 interface BlogCardProps {
     post: BlogPost;
     onClick: (post: BlogPost) => void;
+    viewCount?: number;
 }
 
 const colorClasses: Record<
@@ -55,8 +56,8 @@ const getColorForPost = (post: BlogPost): string => {
     return colors[index];
 };
 
-const BlogCard: React.FC<BlogCardProps> = ({ post, onClick }) => {
-    const { title, pubDate, description, prompt, author, views, tags } = post.data;
+const BlogCard: React.FC<BlogCardProps> = ({ post, onClick, viewCount }) => {
+    const { title, pubDate, description, prompt, author, tags } = post.data;
     const color = getColorForPost(post);
     const currentColor = colorClasses[color];
 
@@ -67,7 +68,7 @@ const BlogCard: React.FC<BlogCardProps> = ({ post, onClick }) => {
     });
 
     const type = tags && tags.length > 0 ? tags[0] : 'Blog';
-    const displayViews = views ? (views >= 1000 ? `${(views / 1000).toFixed(1)}k` : views) : '0';
+    const displayViews = viewCount !== undefined ? (viewCount >= 1000 ? `${(viewCount / 1000).toFixed(1)}k` : viewCount) : '...';
     const displayAuthor = author || 'Anonymous';
 
     return (

@@ -12,7 +12,6 @@ export interface BlogPost {
         prompt?: string;
         model?: string;
         author?: string;
-        views?: number;
         tags?: string[];
         tips?: string[];
     };
