@@ -1,7 +1,7 @@
 ---
 title: 'Mastering Gemini: The Top 5 AI Prompts for Hyper-Realistic Cinematic Visuals'
 description: 'Nishant Singh shares his top 5 high-performing Google Gemini prompts to generate stunning, cinematic, and hyper-realistic portraits and lifestyle shots.'
-pubDate: 'Dec 06 2024'
+pubDate: 'Dec 07 2025'
 category: 'image-generation'
 heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DOnSae3Es8V/image_1.jpg'
 ---

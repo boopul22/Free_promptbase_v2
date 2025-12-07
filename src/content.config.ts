@@ -30,6 +30,7 @@ const blog = defineCollection({
 			views: z.number().optional(),
 			tags: z.array(z.string()).optional(),
 			tips: z.array(z.string()).optional(),
+			username: z.string().optional(),
 		}),
 });
 
