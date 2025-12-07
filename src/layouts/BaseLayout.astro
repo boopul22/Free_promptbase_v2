@@ -29,6 +29,7 @@ const { title, description, image } = Astro.props;
         <script
             src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"
         ></script>
+        <Analytics />
         <slot name="head" />
     </head>
     <body
@@ -40,6 +41,5 @@ const { title, description, image } = Astro.props;
         </main>
         <Footer />
         <SubmitModal />
-        <Analytics />
     </body>
 </html>
