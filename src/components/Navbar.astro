@@ -58,31 +58,6 @@ import { SITE_TITLE } from "../consts";
         </div>
 
         <div class="flex items-center gap-2 md:gap-4">
-            <div
-                class="hidden md:flex items-center px-2 py-1.5 rounded-md border border-border bg-surface w-64 text-secondary focus-within:border-emerald-500/50 focus-within:ring-1 focus-within:ring-emerald-500/50 transition-all"
-            >
-                <iconify-icon
-                    icon="lucide:search"
-                    width="14"
-                    class="mr-2 text-neutral-500"></iconify-icon>
-                <input
-                    type="text"
-                    placeholder="Search prompts..."
-                    class="bg-transparent border-none outline-none text-xs w-full placeholder-neutral-600 text-white"
-                />
-                <span
-                    class="text-[10px] text-neutral-600 border border-neutral-700 px-1 rounded ml-1 font-mono"
-                    >/</span
-                >
-            </div>
-            <!-- Mobile Search Icon -->
-            <button
-                class="md:hidden text-secondary hover:text-white p-2"
-                aria-label="Search"
-            >
-                <iconify-icon icon="lucide:search" width="20"></iconify-icon>
-            </button>
-
             <!-- Theme Toggle Button -->
             <button
                 id="theme-toggle"
@@ -103,12 +78,13 @@ import { SITE_TITLE } from "../consts";
                 ></iconify-icon>
             </button>
 
-            <button
+            <a
+                href="/contact"
                 class="text-xs font-semibold bg-emerald-500 text-white px-3 py-1.5 rounded-md hover:bg-emerald-400 transition-colors flex items-center gap-2 ring-1 ring-emerald-400/20 shadow-lg shadow-emerald-500/20"
             >
-                <iconify-icon icon="lucide:plus" width="14"></iconify-icon>
-                <span class="hidden sm:inline">Submit Prompt</span>
-            </button>
+                <iconify-icon icon="lucide:mail" width="14"></iconify-icon>
+                <span class="hidden sm:inline">Contact</span>
+            </a>
         </div>
     </div>
 
@@ -147,19 +123,12 @@ import { SITE_TITLE } from "../consts";
             </div>
 
             <div class="pt-4 border-t border-border">
-                <div
-                    class="flex items-center px-3 py-2 rounded-md border border-border bg-surface text-secondary focus-within:border-neutral-600 transition-all"
+                <a
+                    href="/contact"
+                    class="block w-full px-4 py-3 text-sm font-medium text-center text-white bg-emerald-500 hover:bg-emerald-400 rounded-lg transition-colors"
                 >
-                    <iconify-icon
-                        icon="lucide:search"
-                        width="16"
-                        class="mr-2 text-neutral-500"></iconify-icon>
-                    <input
-                        type="text"
-                        placeholder="Search prompts..."
-                        class="bg-transparent border-none outline-none text-sm w-full placeholder-neutral-600 text-white"
-                    />
-                </div>
+                    Contact Us
+                </a>
             </div>
         </div>
     </div>
