@@ -3,7 +3,7 @@ title: 'The Secret AI Prompt That 10x Lead Gen Analysis in 24 Hours'
 description: 'Stop wrestling pivot tables for 40 hours. This AI prompt turns lead gen data into CEO ready insights in minutes. SaaS secret inside.'
 pubDate: 'Dec 22 2025'
 category: 'marketing'
-heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/blog_images/analyze_lead_generation_data_1/image_1.webp'
+heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/analyze_lead_generation_data_1/image_1.webp'
 tags: [ai prompts, chatgpt, prompt engineering, lead generation, marketing, data analysis, roi, saas marketing, crm, google analytics, ai marketing, productivity, marketing automation, business intelligence, strategic planning]
 ---
 
@@ -33,7 +33,7 @@ target {TARGET AUDIENCE} residing in {GEOGRAPHIC REGION}?
 
 Unlike generic "how to generate leads" queries, this prompt produces *executable strategies* with channel-specific recommendations, budget reallocation suggestions, and even CRM integration tactics. 
 
-![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/blog_images/analyze_lead_generation_data_1/image_2.webp)
+![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/analyze_lead_generation_data_1/image_2.webp)
 
 A demand gen specialist at a mid-market B2B software company used this framework to discover that their **AI-powered analytics** revealed webinar leads closed 3x faster than ebook downloads—but only in North America. They shifted 30% of their budget and saw a 47% **improvement in marketing ROI** within 60 days.
 
@@ -129,7 +129,7 @@ Append: "Considering our top competitor just launched a similar product in {GEOG
 
 The AI will scan public data and suggest positioning angles you might have missed.
 
-![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/blog_images/analyze_lead_generation_data_1/image_3.webp)
+![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/analyze_lead_generation_data_1/image_3.webp)
 
 ## Common Mistakes to Avoid
 

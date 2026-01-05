@@ -3,7 +3,7 @@ title: 'The ONE AI Prompt That 10x Your Traffic Analysis Overnight'
 description: 'Stop wasting hours on manual traffic analysis. This ONE AI prompt uncovers hidden conversion killers instantly. Marketers swear by this secret.'
 pubDate: 'Dec 22 2025'
 category: 'marketing'
-heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/blog_images/analyze_website_traffic_data_2/image_1.webp'
+heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/analyze_website_traffic_data_2/image_1.webp'
 tags: [ai prompts, chatgpt, prompt engineering, website analytics, ga4, conversion rate optimization, traffic analysis, digital marketing, growth hacking, marketing analytics, ai tools, conversion optimization, data analysis, marketing automation, seo, ai marketing, prompt guide, analytics secrets, marketing hacks, traffic drops]
 ---
 
@@ -37,7 +37,7 @@ When you feed this to a modern AI (e.g., ChatGPT, Claude, or a purpose‑built m
 2. **Surface underlying drivers** – It generates a ranked list of hypotheses—technical, behavioral, marketing, or external—that could explain the shift.  
 3. **Structure the output** – You receive a clean, “what → why → what next” narrative you can drop straight into a stakeholder update or experiment roadmap.
 
-![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/blog_images/analyze_website_traffic_data_2/image_2.webp)
+![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/analyze_website_traffic_data_2/image_2.webp)
 
 ### Why It’s a Game‑Changer for **Web Analytics**
 
@@ -109,7 +109,7 @@ Then pick the top 1‑2 hypotheses for deeper **conversion optimization** experi
 
 ## Pro Tips for Better Results
 
-![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/blog_images/analyze_website_traffic_data_2/image_3.webp)
+![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/analyze_website_traffic_data_2/image_3.webp)
 
 ### **Tip #1 – Layer Segmentation into the Prompt**
 

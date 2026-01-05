@@ -3,7 +3,7 @@ title: 'This ONE AI Prompt 250% More Leads in 90 Days'
 description: 'Stop wasting lead gen data. This AI prompt turns analytics into 250% more leads in 90 days. The $500hr secret weapon CEOs dont want you to know'
 pubDate: 'Dec 25 2025'
 category: 'marketing'
-heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/blog_images/analyze_lead_generation_data_5/image_1.webp'
+heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/analyze_lead_generation_data_5/image_2.webp'
 tags: [ai prompts, chatgpt, prompt engineering, lead generation, marketing, sales, data analysis, growth hacking, revenue, crm, analytics, business intelligence, ai tools, productivity, b2b marketing]
 ---
 
@@ -31,7 +31,7 @@ But don’t let the simplicity fool you. This framework forces strategic clarity
 
 For marketing directors and VPs accountable for pipeline growth, this turns AI from a content assistant into a strategic growth partner. You're not just analyzing lead generation data—you're architecting a revenue acceleration engine with machine-speed intelligence.
 
-![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/blog_images/analyze_lead_generation_data_5/image_2.webp)
+![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/analyze_lead_generation_data_5/image_1.webp)
 
 ## How to Use This Prompt (Step-by-Step With Real Examples)
 
@@ -121,7 +121,7 @@ This transforms the output from a vague strategy into a measurable system. For e
 - **Leading:** "Landing page A/B test velocity," "MQL-to-SQL meeting booking rate"
 - **Lagging:** "Customer acquisition cost," "Pipeline coverage ratio"
 
-![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/blog_images/analyze_lead_generation_data_5/image_3.webp)
+![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/analyze_lead_generation_data_5/image_3.webp)
 
 ### 5. Attach Raw Data Files
 

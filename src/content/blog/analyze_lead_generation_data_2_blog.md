@@ -3,7 +3,7 @@ title: 'The Secret AI Prompt That 10x Lead Quality in 30 Days'
 description: 'Stop drowning in Salesforce data. This AI prompt 10x lead quality in 30 days. HubSpot marketing ops secret copy paste template.'
 pubDate: 'Dec 22 2025'
 category: 'marketing'
-heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/blog_images/analyze_lead_generation_data_2/image_1.webp'
+heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/analyze_lead_generation_data_2/image_2.webp'
 tags: [ai prompts, chatgpt, prompt engineering, lead generation, marketing, salesforce, marketing ops, revops, conversion optimization, data analysis, b2b marketing, growth hacking, ai marketing, martech, ai tools]
 ---
 
@@ -30,7 +30,7 @@ At first glance, it looks deceptively simple. But this structure triggers a spec
 
 When you feed this to an AI with access to your lead generation metrics, CRM data, and marketing automation stats, it doesn't just regurgitate best practices. It performs multivariate analysis across your lead generation data, identifies constraint points in your funnel, and reverse-engineers the exact procedural changes needed to hit your target.
 
-![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/blog_images/analyze_lead_generation_data_2/image_2.webp)
+![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/analyze_lead_generation_data_2/image_1.webp)
 
 This prompt structure is particularly powerful for B2B lead generation analysis because it mirrors how RevOps teams actually plan: start with the KPI, work backward to process changes, and validate against time/resources.
 
@@ -139,7 +139,7 @@ After the initial response, ask: "For each recommendation, what specific data wo
 
 Once you have recommendations, drill down: "Which of these strategies requires zero budget but has highest impact?" or "Which changes can be implemented without engineering support?" This filters tactics by your actual constraints.
 
-![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/blog_images/analyze_lead_generation_data_2/image_3.webp)
+![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/analyze_lead_generation_data_2/image_3.webp)
 
 **Advanced move:** Create a "prompt chain." Use the first response to identify your #1 constraint (e.g., lead scoring), then run a second prompt: "Analyze our current lead scoring model's impact on MQL-to-SQL conversion. What 3 data points are most predictive of SQL conversion for enterprise accounts?" This performs deeper lead generation data analysis on the specific bottleneck.
 

@@ -3,7 +3,7 @@ title: 'This ONE AI Prompt 10x Traffic Analysis In 5 Minutes'
 description: 'Stop drowning in analytics dashboards. This ONE AI prompt turns traffic data into gold in minutes. The secret agencies dont want you to know'
 pubDate: 'Dec 22 2025'
 category: 'marketing'
-heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/blog_images/analyze_website_traffic_data_3/image_1.webp'
+heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/analyze_website_traffic_data_3/image_1.webp'
 tags: [ai prompts, chatgpt, prompt engineering, website traffic, google analytics, digital marketing, traffic analysis, ai tools, marketing prompts, data analysis, growth hacking, smb marketing, analytics dashboard, conversion optimization]
 ---
 
@@ -35,7 +35,7 @@ But don't let its simplicity fool you. This prompt acts as a master key that unl
 
 **It Reveals Hidden Money-Making Opportunities:** The AI connects dots you'd never think to look for—like discovering that your highest-LTV customers are all pet owners who visit between 10 PM and midnight, suggesting a lucrative untapped audience segment.
 
-![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/blog_images/analyze_website_traffic_data_3/image_2.webp)
+![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/analyze_website_traffic_data_3/image_2.webp)
 
 Think of this prompt as hiring a $200/hour data scientist who works at lightning speed, never sleeps, and doesn't judge you for not knowing what a "dimension" is in Google Analytics.
 
@@ -106,7 +106,7 @@ This turns a one-off insight into a complete action plan.
 ### Tip 4: Export and Enrich
 Take the AI's demographic segments and import them as custom audiences in Google Ads or Facebook. Then ask: *"How should I adjust my ad creative for each segment?"* Suddenly, your campaigns speak directly to each group's unique pain points, slashing CPA by 30-50%.
 
-![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/blog_images/analyze_website_traffic_data_3/image_3.webp)
+![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/analyze_website_traffic_data_3/image_3.webp)
 
 **Secret Sauce:** Every time you run this prompt, save the output in a Google Doc titled "Traffic Insights [Date]." After 3 months, you'll have a trend analysis goldmine. Ask the AI, *"Based on my insights from June, July, and August, what demographic shifts should I prepare for in Q4?"*—giving you predictive power your competitors lack.
 

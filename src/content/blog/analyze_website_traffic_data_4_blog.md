@@ -3,7 +3,7 @@ title: 'The 5 Minute AI Prompt That 10x Website Engagement in 24 Hours'
 description: "High bounce rates cost trillions. This AI prompt finds where visitors abandon your site in 5 minutes flat. The secret conversion pros don't want you to know."
 pubDate: 'Dec 22 2025'
 category: 'marketing'
-heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/blog_images/analyze_website_traffic_data_4/image_1.webp'
+heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/analyze_website_traffic_data_4/image_1.webp'
 tags: [ai prompts, chatgpt, prompt engineering, marketing, website traffic, analytics, bounce rate, conversion optimization, google analytics, traffic analysis, engagement, digital marketing, cRO, ai marketing, growth hacking]
 ---
 
@@ -31,7 +31,7 @@ This deceptively simple AI prompt transforms vague bounce rate anxiety into acti
 
 The magic happens when the AI cross-references your site's structure with proven engagement principles: page load times, visual hierarchy, mobile responsiveness, content relevance, and call-to-action placement. It's like having a world-class CRO expert analyzing your site 24/7.
 
-![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/blog_images/analyze_website_traffic_data_4/image_2.webp)
+![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/analyze_website_traffic_data_4/image_2.webp)
 
 ## How to Use This Prompt (Step-by-Step Blueprint)
 
@@ -159,7 +159,7 @@ This prompt becomes lethal when combined with:
 **6. Ask for "Contrarian Fixes"**
 Add: *"Propose 2 unconventional suggestions that most website analytics experts would miss."* This unlocks creative solutions like micro-animations, progressive disclosure, or social proof timing.
 
-![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/blog_images/analyze_website_traffic_data_4/image_3.webp)
+![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/analyze_website_traffic_data_4/image_3.webp)
 
 ## Common Mistakes to Avoid (Don't Sabotage Your Results)
 

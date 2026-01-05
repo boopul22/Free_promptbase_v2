@@ -3,7 +3,7 @@ title: 'This ONE Prompt Analyzes Lead Gen Data And Spits Out 10x Magnets'
 description: 'Dead lead magnets killing your ROI This ONE AI prompt analyzes your data and spits out 10x more high converting magnets B2B pros actually want Stop wasting hours now'
 pubDate: 'Dec 24 2025'
 category: 'marketing'
-heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/blog_images/analyze_lead_generation_data_4/image_1.webp'
+heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/analyze_lead_generation_data_4/image_1.webp'
 tags: [ai prompts, chatgpt, prompt engineering, lead generation, lead magnets, b2b marketing, marketing strategy, data analysis, conversion optimization, ai for marketing, saas marketing, high converting, content marketing, marketing automation, growth hacking]
 ---
 
@@ -25,7 +25,7 @@ This deceptively simple prompt is actually a strategic weapon that reverse-engin
 Can you provide a recommendation for a lead magnet that would captivate {a specific demographic such as busy professionals, stay-at-home parents} residing in {a particular geographic region} on behalf of {the name of the company}?
 ```
 
-![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/blog_images/analyze_lead_generation_data_4/image_2.webp)
+![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/analyze_lead_generation_data_4/image_3.webp)
 
 **Why this demolishes traditional brainstorming:**
 
@@ -49,4 +49,4 @@ The magic happens when you treat each bracket as a strategic input field, not a 
 
 **Placeholder 1
 
-![Illustration](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/blog_images/analyze_lead_generation_data_4/image_3.webp)
+![Illustration](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/analyze_lead_generation_data_4/image_2.webp)

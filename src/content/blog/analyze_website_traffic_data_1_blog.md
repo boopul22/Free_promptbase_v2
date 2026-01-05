@@ -3,7 +3,7 @@ title: 'This ONE AI Prompt Will 10x Your Website Traffic Analysis'
 description: 'Struggling to decode competitor traffic? This ONE AI prompt replaces $299 tools and reveals sources in 2 minutes Click now'
 pubDate: 'Dec 22 2025'
 category: 'marketing'
-heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/blog_images/analyze_website_traffic_data_1/image_1.webp'
+heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/analyze_website_traffic_data_1/image_5.webp'
 tags: [ai prompts, chatgpt, prompt engineering, website traffic analysis, competitive intelligence, digital marketing, google analytics, marketing strategy, data analysis, saas marketing, seo, traffic sources, ai tools, marketing automation, growth hacking]
 ---
 
@@ -33,7 +33,7 @@ This deceptively simple question triggers a multi-layered analysis that would ty
 
 The magic lies in its dual structure: **quantification + qualification**. First, it identifies the *what* (top traffic sources), then it demands the *so what* (quality analysis). This forces the AI to think beyond vanity metrics and deliver strategic, actionable insights about which channels actually *convert*, *engage*, and *retain* users.
 
-![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/blog_images/analyze_website_traffic_data_1/image_2.webp)
+![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/analyze_website_traffic_data_1/image_1.webp)
 
 Whether you're benchmarking against competitors, auditing your own portfolio of sites, or planning your Q1 acquisition strategy, this prompt becomes your 24/7 analytics consultant that never sleeps and costs pennies per use.
 
@@ -170,7 +170,7 @@ For international businesses, layer in:
 (desktop vs mobile), as quality varies significantly across these dimensions."
 ```
 
-![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/blog_images/analyze_website_traffic_data_1/image_3.webp)
+![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/analyze_website_traffic_data_1/image_6.webp)
 
 ### 5. The "Red Team" Technique
 

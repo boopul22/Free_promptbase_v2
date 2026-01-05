@@ -3,7 +3,7 @@ title: 'Chibi Capsule POV: Create Viral AI Art Quickly'
 description: 'Discover how the chibi capsule POV boosts viral AI art. Learn prompts for cute, collectible chibi visuals perfect for carousels and reels.'
 pubDate: 'Dec 17 2025'
 category: 'image-generation'
-heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DKzyuY3hg5V/image_1.webp'
+heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/anannyaraii_DKzyuY3hg5V/image_1.webp'
 username: 'anannyaraii'
 tags: [chibi capsule, POV art, gashapon art, AI-generated chibi, AI art prompts, carousels, reels, short-form video, image generation, prompt templates, cute art, miniature world]
 faq:
@@ -29,7 +29,7 @@ faq:
 
 POV: you just turned into a chibi character and got trapped inside a glass capsule. It sounds playful, but it’s also a goldmine for AI creators who want eye-catching visuals without heavy design skills. Think of a tiny figure art scene that feels cinematic, cute, and instantly shareable. This guide breaks down how to make this concept shine—from concept to viral carousel tactics—using AI-generated chibi art, prompts, and practical tips anyone can follow.
 
-![Close-up of a tiny chibi figure inside a glass capsule held between fingers, ready for social sharing](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DKzyuY3hg5V/image_2.webp)
+![Close-up of a tiny chibi figure inside a glass capsule held between fingers, ready for social sharing](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/anannyaraii_DKzyuY3hg5V/image_2.webp)
 
 ## What is the chibi capsule POV concept?
 
@@ -47,7 +47,7 @@ The POV approach helps viewers connect with the mini character on a personal lev
 
 In short, the chibi capsule POV is a practical, scalable template for AI-curious creators who want “wow” visuals without a big design budget. It’s a friendly bridge between playful art and serious content strategy.
 
-![All-glass capsule close-up with a chibi inside, ready for demonstration](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DKzyuY3hg5V/image_2.webp)
+![All-glass capsule close-up with a chibi inside, ready for demonstration](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/anannyaraii_DKzyuY3hg5V/image_2.webp)
 
 ## How to design the visuals
 
@@ -163,7 +163,7 @@ A practical toolkit helps you move from concept to carousel fast. Focus on acces
 - Create templates to auto-generate new slides with minimal input.
 - Schedule cross-posts with platform-appropriate aspect ratios and captions.
 
-![Prompt card example showing how to generate a 4:5 portrait image of the all-glass capsule](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DKzyuY3hg5V/image_3.webp)
+![Prompt card example showing how to generate a 4:5 portrait image of the all-glass capsule](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/anannyaraii_DKzyuY3hg5V/image_3.webp)
 
 
 
@@ -239,4 +239,4 @@ If you’re curious about AI-generated chibi visuals and want fast, repeatable p
 
 Want to see more examples? Drop a comment with your dream chibi capsule setup, and I’ll craft a few prompts you can try today. For ongoing inspiration, follow for more AI art prompts, chibi animation ideas, and step-by-step prompts you can reuse in your own creator journey.
 
-![Caption-ready, high-contrast chibi capsule setup ready for social posting](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DKzyuY3hg5V/image_2.webp)
+![Caption-ready, high-contrast chibi capsule setup ready for social posting](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/anannyaraii_DKzyuY3hg5V/image_2.webp)

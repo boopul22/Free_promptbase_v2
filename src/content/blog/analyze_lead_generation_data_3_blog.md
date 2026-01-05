@@ -3,7 +3,7 @@ title: 'ONE AI Prompt Steals Your Competitors Lead Gen Playbook in 90 Days'
 description: 'Unlock the ONE AI prompt that reverse-engineers competitor lead gen strategies. Boost qualified leads 43% in 90 days. Your secret weapon awaits'
 pubDate: 'Dec 23 2025'
 category: 'marketing'
-heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/blog_images/analyze_lead_generation_data_3/image_1.webp'
+heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/analyze_lead_generation_data_3/image_2.webp'
 tags: [ai prompts, chatgpt, prompt engineering, lead generation, competitor analysis, marketing, artificial intelligence, growth hacking, b2b marketing, data analysis, marketing strategy, conversion optimization, ai marketing, marketing automation, sales enablement]
 ---
 
@@ -35,7 +35,7 @@ But this simplicity masks its extraordinary power. Here's what makes it the Swis
 
 This prompt excels at **lead generation data analysis** by synthesizing competitor intelligence, industry benchmarks, and practical implementation pathways. It helps you bypass months of trial-and-error by starting with what's already working.
 
-![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/blog_images/analyze_lead_generation_data_3/image_2.webp)
+![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/analyze_lead_generation_data_3/image_1.webp)
 
 ## How to Use This Prompt (Step-by-Step Guide)
 
@@ -139,7 +139,7 @@ Don't stop at one answer. Use the output to ask follow-ups:
 - "How would this change if our budget was cut in half?"
 - "What are the risks of each technique?"
 
-![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/blog_images/analyze_lead_generation_data_3/image_3.webp)
+![alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/analyze_lead_generation_data_3/image_3.webp)
 
 ## Common Mistakes That Sabotage Your Results (And How to Avoid Them)
 

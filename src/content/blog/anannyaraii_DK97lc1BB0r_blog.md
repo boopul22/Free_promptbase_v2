@@ -3,7 +3,7 @@ title: 'POV: You + Vintage Scooter + 3 Dogs — Viral AI Carousels'
 description: 'Master the POV: You + Vintage Scooter + 3 Dogs trend with hyper-real AI selfies and carousels. Learn prompts, editing, and growth for viral image-generation.'
 pubDate: 'Dec 17 2025'
 category: 'image-generation'
-heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DK97lc1BB0r/image_1.webp'
+heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/anannyaraii_DK97lc1BB0r/image_1.webp'
 username: 'anannyaraii'
 tags: [POV content, pov You + Vintage Scooter + 3 Dogs, image generation, ai selfies, viral carousels, prompts workflow, editing tutorials, cinematic selfies, vintage scooter trend, dogs in motion, social media growth, ai-generated imagery]
 faq:
@@ -29,7 +29,7 @@ faq:
 
 POV content is heating up on social. Picture this: you on a vintage scooter, three dogs barking and bouncing behind you, and a camera angle that makes it feel like you’re in an action movie. This article dives into a fully SEO-optimized approach to the trend “🚨 POV: You + Vintage Scooter + 3 Dogs = Chaos Unleashed 😂🐕💨,” with a practical workflow to create hyper-real AI selfies and vibrant carousels. We’ll cover concept, shoots, prompts, editing, and how to grow visibility with smart optimization.
 
-![Prompt-driven concept teaser](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DK97lc1BB0r/image_2.webp)
+![Prompt-driven concept teaser](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/anannyaraii_DK97lc1BB0r/image_2.webp)
 
   
 <prompt>
