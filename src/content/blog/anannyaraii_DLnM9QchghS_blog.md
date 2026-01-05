@@ -3,7 +3,7 @@ title: 'Squid Game Content: How AI Art Goes Viral Fast'
 description: 'Discover how Squid Game content goes viral with AI art: master prompt-driven workflows, hyper-real visuals, and fast, scroll-stopping formats.'
 pubDate: 'Dec 17 2025'
 category: 'image-generation'
-heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DLnM9QchghS/image_1.webp'
+heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/anannyaraii_DLnM9QchghS/image_1.webp'
 username: 'anannyaraii'
 tags: [squid game content, squid game AI art, AI art, image generation, viral content, prompt-driven workflows, hyperreal visuals, short-form video, TikTok, Instagram Reels, YouTube Shorts, real-life squid game vibes]
 faq:
@@ -59,7 +59,7 @@ Ask opinions, not just displays. Questions like “Which mask design would you c
 
 ---
 
-![Ultra-realistic 8K vertical 9:16 fisheye group selfie with me (player 00, replace face using uploaded photo) in a green tracksuit, surrounded by Squid Game top 5 characters, Gi-hun (456), Sang-woo (218), Sae-byeok (067), Ali (199), Il-nam (001), plus 3 masked guards, all smiling on the Season 2 glass bridge arena. Faces and outfits must be ultra-detailed, crisp, and vivid. No pixellation, hyperreal clarity.](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DLnM9QchghS/image_2.webp)
+![Ultra-realistic 8K vertical 9:16 fisheye group selfie with me (player 00, replace face using uploaded photo) in a green tracksuit, surrounded by Squid Game top 5 characters, Gi-hun (456), Sang-woo (218), Sae-byeok (067), Ali (199), Il-nam (001), plus 3 masked guards, all smiling on the Season 2 glass bridge arena. Faces and outfits must be ultra-detailed, crisp, and vivid. No pixellation, hyperreal clarity.](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/anannyaraii_DLnM9QchghS/image_2.webp)
 
 <prompt>Create an ultra-realistic 8K vertical 9:16 fisheye group selfie with me (player 00, replace face using uploaded photo) in a green tracksuit, surrounded by Squid Game top 5 characters, Gi-hun (456), Sang-woo (218), Sae-byeok (067), Ali (199), Il-nam (001), plus 3 masked guards, all smiling on the Season 2 glass bridge arena. Faces and outfits must be ultra-detailed, crisp, and vivid. No pixellation, hyperreal clarity.</prompt>
 
@@ -135,7 +135,7 @@ Create a small library: color swatches (red, green, blue), mask shapes (circle, 
 
 ---
 
-![Lively group selfie on a sci-fi arena with masked guards, green tracksuits, and numbers on uniforms](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DLnM9QchghS/image_3.webp)
+![Lively group selfie on a sci-fi arena with masked guards, green tracksuits, and numbers on uniforms](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/anannyaraii_DLnM9QchghS/image_3.webp)
 
 
 

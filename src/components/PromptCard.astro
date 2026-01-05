@@ -78,9 +78,9 @@ const categoryInfo = category ? getCategoryBySlug(category) : null;
 ---
 
 <article
-    class="group relative flex flex-col justify-between bg-surface/30 border border-border rounded-xl p-5 hover:border-neutral-600 hover:bg-surface/50 active:bg-surface/60 transition-all duration-300 hover:shadow-lg hover:shadow-neutral-900/50 cursor-pointer"
-    onclick={`window.location.href='${slug && category ? `/blog/${category}/${slug}` : "#"}'`}
+    class="group relative flex flex-col justify-between bg-surface/30 border border-border rounded-xl p-5 hover:border-neutral-600 hover:bg-surface/50 active:bg-surface/60 transition-all duration-300 hover:shadow-lg hover:shadow-neutral-900/50"
 >
+    <a href={slug && category ? `/blog/${category}/${slug}` : "#"} class="absolute inset-0 z-10" aria-label={`Read post: ${title}`}></a>
     <div>
         <div class="flex items-center justify-between mb-4">
             <div class="flex items-center gap-2 flex-wrap">
@@ -93,8 +93,7 @@ const categoryInfo = category ? getCategoryBySlug(category) : null;
                     categoryInfo && (
                         <a
                             href={`/category/${categoryInfo.slug}`}
-                            class="text-[10px] font-medium px-2 py-0.5 rounded bg-neutral-800/50 text-neutral-300 hover:bg-neutral-700 hover:text-white transition-colors z-20"
-                            onclick="event.stopPropagation()"
+                            class="text-[10px] font-medium px-2 py-0.5 rounded bg-neutral-800/50 text-neutral-300 hover:bg-neutral-700 hover:text-white transition-colors z-20 relative"
                         >
                             {categoryInfo.name}
                         </a>
@@ -103,8 +102,7 @@ const categoryInfo = category ? getCategoryBySlug(category) : null;
                 <span class="text-[10px] text-neutral-500">{time}</span>
             </div>
             <button
-                class="text-neutral-500 hover:text-white transition-colors z-20 p-2 -m-2"
-                onclick="event.stopPropagation()"
+                class="text-neutral-500 hover:text-white transition-colors z-20 p-2 -m-2 relative"
                 aria-label="Bookmark prompt"
             >
                 <iconify-icon icon="lucide:bookmark" width="16"></iconify-icon>

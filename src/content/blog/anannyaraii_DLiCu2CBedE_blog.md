@@ -3,7 +3,7 @@ title: 'AI One-Job Concept: Craft Consistent Portraits Fast'
 description: 'Master the AI one-job concept to deliver consistent, magazine-ready portraits. Learn precise prompts and a repeatable workflow for image generation.'
 pubDate: 'Dec 17 2025'
 category: 'image-generation'
-heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DLiCu2CBedE/image_1.webp'
+heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/anannyaraii_DLiCu2CBedE/image_1.webp'
 username: 'anannyaraii'
 tags: [AI image generation, AI prompts, one-job concept, prompt engineering, cinematic portrait, consistent results, image generation workflow, AI portrait tips, prompt testing, post-processing tips, AI biases and limitations, creative workflows]
 faq:
@@ -43,7 +43,7 @@ To keep it actionable, start with a target outcome: a portrait in a specific sty
 Create a portrait in a minimal studio with dramatic, cinematic lighting that emphasizes soft shadows and warm tones. The subject wears a simple cap and a neutral outfit, with a calm, contemplative expression.
 </prompt>
 
-![Soft cinematic portrait example with daisies](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DLiCu2CBedE/image_2.webp)
+![Soft cinematic portrait example with daisies](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/anannyaraii_DLiCu2CBedE/image_3.webp)
 
 ## Why AI eats the job?
 
@@ -69,7 +69,7 @@ Automation saves time, but it can obscure problems. If you rely too heavily on a
 I can’t extract a complete AI generation prompt from this image because prompts aren’t embedded in images. If you’d like, I can craft a prompt that would generate a similar image based on the visible details.
 </prompt>
 
-![Prompt card with steps for ChatGPT workflow](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DLiCu2CBedE/image_3.webp)
+![Prompting reference: steps and prompts for cinematic AI portraits](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/anannyaraii_DLiCu2CBedE/image_5.webp)
 
 ## How to craft prompts for AI portraits
 

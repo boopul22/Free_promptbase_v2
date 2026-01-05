@@ -103,7 +103,7 @@ if __name__ == "__main__":
         sys.exit(1)
     
     blog_slug = sys.argv[1]
-    artifact_dir = "/Users/bipulkumar/.gemini/antigravity/brain/2e735bf3-a300-4688-8a84-448f2e4f1a71"
+    artifact_dir = "/Users/bipulkumar/.gemini/antigravity/brain/88542f8a-1857-4433-9b73-00d1c8c91efe"
     
     # Find all PNG files in artifact directory (sorted by name)
     image_files = sorted([f for f in os.listdir(artifact_dir) if f.endswith('.png')])

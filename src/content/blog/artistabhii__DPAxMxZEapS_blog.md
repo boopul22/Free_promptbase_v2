@@ -3,7 +3,7 @@ title: 'Unlocking Hyperrealism: How to Fuse Yourself into the Doraemon Universe 
 description: 'Dive deep into advanced AI prompt engineering using Google Gemini to create hyperrealistic 8K portraits blending personal photos with the iconic Doraemon world.'
 pubDate: 'Dec 08 2025'
 category: 'image-generation'
-heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DPAxMxZEapS/image_1.webp'
+heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/artistabhii__DPAxMxZEapS/image_1.webp'
 username: 'artistabhii_'
 ---
 
@@ -19,7 +19,7 @@ The first concept was to capture a cheerful moment in the colorful Doraemon city
 
 This blueprint emphasizes setting, mood, friendship, and extreme detail (8K resolution is key!).
 
-![AI generated prompt text for creating a hyperrealistic portrait with Doraemon in a vibrant cityscape using Gemini](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DPAxMxZEapS/image_2.webp)
+![AI generated Doraemon city adventure scene with hyperrealistic portrait](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/artistabhii__DPAxMxZEapS/image_2.webp)
 
 <prompt>Ultra realistic 8K Instagram portrait (4:5 ratio) of [reference image person’s exact face], sitting naturally with Doraemon in a colorful Doraemon city. The person is wearing simple natural casual clothes (plain t-shirt or casual shirt with jeans and normal sneakers), looking relaxed and smiling. Doraemon is sitting beside the person, holding a bamboo copter, both appearing as close friends. Background shows Doraemon-style cityscape with Nobita’s house, playful futuristic houses, and floating gadgets under a bright blue sky. Theme is cheerful, cinematic, cartoon-inspired yet hyperrealistic, with vibrant colors and portrait composition focused on both faces clearly.</prompt>
 
@@ -31,13 +31,13 @@ While the city scene is grand and cinematic, sometimes you want something cozier
 
 To shift the theme from outdoor spectacle to indoor warmth, we specifically targeted details recognizable from the anime: Nobita's distinct room features and specific, interacting gadgets like the Anywhere Door.
 
-![AI generated prompt text detailing specifications for an ultra realistic indoor portrait with Doraemon inside Nobita's room using Google Gemini](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DPAxMxZEapS/image_4.webp)
+![Hyperrealistic portrait inside Nobita's room with Doraemon and gadgets](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/artistabhii__DPAxMxZEapS/image_4.webp)
 
 <prompt>Ultra realistic 8K Instagram portrait (4:5 ratio) of [reference image person’s exact face], sitting naturally and playing with Doraemon inside Nobita’s room. The person’s body pose is casual and relaxed, interacting with Doraemon, smiling joyfully, wearing simple natural casual clothes (plain t-shirt or casual shirt with jeans and sneakers). Doraemon is next to the person, both laughing and playing with gadgets (Anywhere Door half-open in background, small time machine toy on the floor, bamboo copter on desk). Nobita’s room details visible—green table, books, wooden floor, window with daylight shining in. Theme is cozy, playful, cartoon-inspired yet hyperrealistic, vibrant colors, portrait composition with clear focus on faces, natural and lively posture.</prompt>
 
 The output of this prompt is incredible. The AI successfully manages the intimate lighting, and the relaxed posture of the subject feels entirely natural.
 
-![Hyperrealistic 8K portrait showing a smiling man sitting cross-legged on the floor next to Doraemon in a cozy, detailed interior resembling Nobita's room, with the Anywhere Door visible.](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DPAxMxZEapS/image_3.webp)
+![Doraemon gadgets display with bamboo copter, Anywhere Door, and time machine](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/artistabhii__DPAxMxZEapS/image_3.webp)
 
 Notice how the lighting coming through the window adds depth and realism, while the partially open Anywhere Door (the rainbow swirl detail) adds that essential touch of cartoon magic right into the hyperrealistic setting.
 

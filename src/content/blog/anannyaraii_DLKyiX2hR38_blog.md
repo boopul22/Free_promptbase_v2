@@ -3,7 +3,7 @@ title: 'Main Character Aesthetic: Elevate Your Feed Now'
 description: 'Master the main character aesthetic with beginner-friendly image-generation and AI tools to craft story-driven posts, boost engagement, and vibe.'
 pubDate: 'Dec 17 2025'
 category: 'image-generation'
-heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DLKyiX2hR38/image_1.webp'
+heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/anannyaraii_DLKyiX2hR38/image_1.webp'
 username: 'anannyaraii'
 tags: [main character aesthetic, main character energy, mc aesthetic, image generation, ai tools, story-driven posts, social media aesthetics, carousel storytelling, anime-inspired, glossy color grading, branding consistency, fashion tech storytelling]
 faq:
@@ -49,7 +49,7 @@ Below are practical elements you’ll want to consider when you’re shaping you
 
 
 
-![Detailed SEO alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DLKyiX2hR38/image_2.webp)
+![Detailed SEO alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/anannyaraii_DLKyiX2hR38/image_2.webp)
 
 <prompt>
 Create a high-detail 3D cartoon-style image of a cute young girl with large brown eyes and shoulder-length dark brown hair. She wears a bright red Nike T-shirt, beige rolled-up pants, and red/black Nike sneakers. She sits on a purple Instagram logo block and holds a silver laptop on her lap, smiling warmly. Behind her is a large smartphone screen displaying an Instagram profile page with a dark theme, round avatar, and a grid of thumbnail posts, plus circular story icons along the bottom. Use warm studio lighting, vibrant colors, and crisp textures to convey a playful, tech-savvy vibe.
@@ -77,7 +77,7 @@ Brands love visuals that tell a story. A well-defined MC persona makes partnersh
 
 
 
-![Detailed SEO alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DLKyiX2hR38/image_3.webp)
+![Detailed SEO alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/anannyaraii_DLKyiX2hR38/image_3.webp)
 
 <prompt>
 Create a 3D hyper realistic chibi-style character of a young girl (me) wearing a dark red Nike t-shirt & cream pants and Jordan breads. The girl is smiling and holding a MacBook in one hand while sitting on a large Instagram logo cube. Behind her is a giant smartphone screen showing her instagram profile. The profile has 178 posts, 7000 followers, and 909 following, and the username displayed is "@anannyaraii". Use image 1 as reference to my face for the character and for Instagram display picture, image 2 as reference to the Instagram profile and image 3 as reference to the feed (highlights, bio and feed is shown in image 3)
@@ -115,7 +115,7 @@ A mix of authentic photography, AI-generated elements, and stylized edits can gi
 Create a 3D hyper realistic chibi-style character of a young girl (me) wearing a dark red Nike t-shirt & cream pants and Jordan breads. The girl is smiling and holding a MacBook in one hand while sitting on a large Instagram logo cube. Behind her is a giant smartphone screen showing her instagram profile. The profile has 178 posts, 7000 followers, and 909 following, and the username displayed is "@anannyaraii". Use image 1 as reference to my face for the character and for Instagram display picture, image 2 as reference to the Instagram profile and image 3 as reference to the feed (highlights, bio and feed is shown in image 3)
 </prompt>
 
-![Detailed alt text: A 3D chibi-style girl with a gaming laptop sits beside a big Instagram logo block; a smartphone-profiles screen glows behind, symbolizing a polished MC aesthetic](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DLKyiX2hR38/image_3.webp)
+![Detailed alt text: A 3D chibi-style girl with a gaming laptop sits beside a big Instagram logo block; a smartphone-profiles screen glows behind, symbolizing a polished MC aesthetic](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/anannyaraii_DLKyiX2hR38/image_3.webp)
 
 ## Tools and prompts to generate AI art
 

@@ -3,7 +3,7 @@ title: 'ChatGPT Prompt Ideas Part 19: Rapid Visual Prompts'
 description: 'ChatGPT Prompt Ideas Part 19 guides design and marketing teams with rapid visual prompts, mood boards, and branding-ready captions to accelerate ideation.'
 pubDate: 'Dec 17 2025'
 category: 'image-generation'
-heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DNFpTfTh6lB/image_1.webp'
+heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/arc.graphique_DNFpTfTh6lB/image_2.webp'
 username: 'arc.graphique'
 tags: [ChatGPT prompts, ChatGPT Prompt Ideas, Part 19, visual prompts, design prompts, mood boards, branding directions, social media prompts, captions prompts, AI design prompts, image-generation, branding prompts]
 faq:
@@ -35,7 +35,7 @@ Welcome to ChatGPT Prompt Ideas – Part 19. If you design visuals or craft soci
 
 ChatGPT Prompt Ideas – Part 19 is the latest installment in a ongoing series that collects practical prompt ideas for design and marketing teams. It focuses on prompts that generate visual concepts, catchy captions, mood boards, and branding directions you can adapt to campaigns. You’ll find clear formats, templates for briefs, and tips to tailor prompts to your brand voice. Think of it as a toolbox you can reach into when you need a spark—without starting from scratch. It’s built for beginners and pros alike, so you can mix and match prompts, iterate quickly, and learn what works for your audience.
 
-![Detailed SEO alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DNFpTfTh6lB/image_2.webp)
+![Tech conference futuristic design with clean lines and grid pattern](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/arc.graphique_DNFpTfTh6lB/image_3.webp)
 
 
 
@@ -156,10 +156,10 @@ These quick examples show how Part 19 prompts can fuel both visuals and copy, ma
 - Use category prompts to build consistent visuals across Instagram, YouTube, and Pinterest.
 - Combine workflow tips with collaboration to keep projects organized and on-brand.
 
-![Detailed SEO alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DNFpTfTh6lB/image_8.webp)
+![Wellness brand color palette with calm greens and soft neutrals](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/arc.graphique_DNFpTfTh6lB/image_4.webp)
 
 
 
-![Detailed SEO alt text](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DNFpTfTh6lB/image_9.webp)
+![Instagram post layout with bold typography and white space](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/arc.graphique_DNFpTfTh6lB/image_5.webp)
 
 ---

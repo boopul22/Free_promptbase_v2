@@ -3,7 +3,7 @@ title: 'River Rafting Selfie With AI: Create Dynamic Visuals'
 description: 'Turn your river rafting selfie into a cinematic, AI-powered visual with smart prompts and editing—create shareable, high-impact images that stop the scroll.'
 pubDate: 'Dec 17 2025'
 category: 'image-generation'
-heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DMLIvS2BhOz/image_1.webp'
+heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/anannyaraii_DMLIvS2BhOz/image_1.webp'
 username: 'anannyaraii'
 tags: [river rafting selfie, AI photography, AI-generated image, image generation, prompt engineering, DIY photography, cinematic AI art, visual storytelling, photo editing, social media visuals, synthetic photography, AI prompts]
 faq:
@@ -29,7 +29,7 @@ faq:
 
 I love turning bold dreams into shareable visuals. The river rafting selfie trend is a playful mix of DIY photography, AI magic, and a splash of chaos. No green screen, no boat needed—just imagination, a clever prompt, and a vibe that says I’m up for anything.
 
-![River rafting selfie concept example](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DMLIvS2BhOz/image_2.webp)
+![River rafting selfie concept example](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/anannyaraii_DMLIvS2BhOz/image_2.webp)
 
 ## What is the concept behind turning a wildest-dream into a river rafting selfie?
 
@@ -105,7 +105,7 @@ Plan is power. Here’s a compact, practical plan you can start today.
 - Run a draft prompt, review for motion and realism, adjust lighting or water texture, and re-render.
 - Keep a versioned log of prompts so you can reuse and tweak them for future posts.
 
-![River rafting selfie concept example](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DMLIvS2BhOz/image_2.webp)
+![River rafting selfie concept example](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/anannyaraii_DMLIvS2BhOz/image_2.webp)
 
 ## Prompt engineering for motion and realism
 
@@ -141,7 +141,7 @@ Motion and realism are the heart of this technique. Your prompts should guide AI
 - Save prompts in a library for quick reuse.
 
  
-![Prompt overlay example for river selfie](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DMLIvS2BhOz/image_3.webp)
+![Prompt overlay example for river selfie](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/anannyaraii_DMLIvS2BhOz/image_3.webp)
 
 <prompt>
 Generate a hyper-realistic 4:5 ratio image of me taking a selfie with Popeye, Pikachu, Minion and Batman. They must be doing adventure sports river rafting. They are in a wild river, rafting. The water splashes on them and they are drenched head to toe, excited, screaming. They are wearing life jackets and helmets. Fresh, happy, pleasant lighting, happy vibes. Photo realistic, cinematic, 8K.

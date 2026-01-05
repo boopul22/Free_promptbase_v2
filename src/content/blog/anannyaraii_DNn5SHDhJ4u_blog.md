@@ -3,7 +3,7 @@ title: 'Content Idea Fatigue? Build a Vault for Consistency'
 description: 'Beat content idea fatigue with a repeatable system that turns past posts into fresh angles via a content vault and AI ideation for consistency.'
 pubDate: 'Dec 17 2025'
 category: 'image-generation'
-heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DNn5SHDhJ4u/image_1.webp'
+heroImage: 'https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/anannyaraii_DNn5SHDhJ4u/image_1.webp'
 username: 'anannyaraii'
 tags: [content idea fatigue, content ideas, content vault, repeatable idea system, AI ideation, AI for content, content repurposing, content strategy, social media content, creators, small brands, productivity for creators]
 faq:
@@ -46,7 +46,7 @@ Here’s why fatigue happens to most solo creators and small brands:
 
 The good news? You can beat fatigue by creating a “content vault”—a centralized system that stores your best ideas and repurposes them in smart ways. It’s like having a pantry stocked with ingredients you know your audience loves, ready to cook into fresh meals.
 
-![A black, sleek slide about stabilizing content ideas and a content vault](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DNn5SHDhJ4u/image_2.webp)
+![A black, sleek slide about stabilizing content ideas and a content vault](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/anannyaraii_DNn5SHDhJ4u/image_2.webp)
 
 <prompt>
 THE STRUGGLES:
@@ -112,28 +112,28 @@ STEP 1 CREATE A CONTENT VAULT
 - Ask: Analyze these and give me the key themes I post about.
 </prompt>
 
-![Step 1 content vault board in a dark design](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DNn5SHDhJ4u/image_3.webp)
+![Step 1 content vault board in a dark design](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/anannyaraii_DNn5SHDhJ4u/image_3.webp)
 
 <prompt>
 STEP 2 MULTIPLY YOUR HOOKS
 - Prompt: Take this caption and give me 10 new hooks with different emotions (funny, urgent, poetic, controversial, relatable).
 </prompt>
 
-![Step 2 hook multiplication prompt visuals](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DNn5SHDhJ4u/image_4.webp)
+![Step 2 hook multiplication prompt visuals](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/anannyaraii_DNn5SHDhJ4u/image_4.webp)
 
 <prompt>
 STEP 3 REPurpose WHAT WORKS
 - Prompt: Look at my top 3 performing posts and give me 5 new content angles for each.
 </prompt>
 
-![Step 3 repurposing angles for top posts](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DNn5SHDhJ4u/image_5.webp)
+![Step 3 repurposing angles for top posts](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/anannyaraii_DNn5SHDhJ4u/image_5.webp)
 
 <prompt>
 STEP 4 SCHEDULE AND OPTIMIZE
 - Prompt: Save this system and generate a 7-day repurposing calendar from the top posts.
 </prompt>
 
-![Step 4 scheduling and system saving visuals](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/insta_post/DNn5SHDhJ4u/image_6.webp)
+![Step 4 scheduling and system saving visuals](https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Freepromptbase/anannyaraii_DNn5SHDhJ4u/image_6.webp)
 
 ---
 
