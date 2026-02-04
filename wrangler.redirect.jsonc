@@ -1,0 +1,18 @@
+{
+    "$schema": "node_modules/wrangler/config-schema.json",
+    "name": "promptbase-redirect",
+    "main": "redirect-worker.js",
+    "compatibility_date": "2025-02-04",
+    "compatibility_flags": [
+        "nodejs_compat"
+    ],
+    "routes": [
+        {
+            "pattern": "www.freepromptbase.com/*",
+            "zone_name": "freepromptbase.com"
+        }
+    ],
+    "observability": {
+        "enabled": true
+    }
+}
