@@ -27,3 +27,5 @@ __pycache__/
 
 # jetbrains setting folder
 .idea/
+.vercel
+.env*.local
